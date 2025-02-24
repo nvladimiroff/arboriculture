@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    arboriculture (0.1.0)
+      zeitwerk
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.25.4)
+    rake (13.2.1)
+    zeitwerk (2.7.2)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  arboriculture!
+  minitest (~> 5.16)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.6.2
