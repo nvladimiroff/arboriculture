@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    arboriculture (0.1.0)
+    arboriculture (1.0.1)
       zeitwerk
 
 GEM

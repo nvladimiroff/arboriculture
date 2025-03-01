@@ -5,7 +5,8 @@ Gem::Specification.new do |spec|
   spec.version = Arboriculture::VERSION
   spec.authors = ["Nick Vladimiroff"]
 
-  spec.summary = "Build trees."
+  spec.summary = "A gem for building trees."
+  spec.homepage = "https://github.com/nvladimiroff/arboriculture"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
